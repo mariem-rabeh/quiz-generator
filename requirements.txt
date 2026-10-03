@@ -1,0 +1,8 @@
+# Python 3.11
+pymupdf==1.24.14
+chromadb==0.5.23
+openai==1.55.3
+pydantic==2.9.2
+streamlit==1.39.0
+pytest==8.3.3
+python-dotenv==1.0.1
